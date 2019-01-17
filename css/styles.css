@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+}
+
+.animal-container {
+  width: 75%;
+  margin: 0 auto;
+  border: 5px solid black;
+  border-radius: 10px;
+  display: none;
+}
+
+.animal-container div {
+  border-bottom: 5px solid black;
+}
